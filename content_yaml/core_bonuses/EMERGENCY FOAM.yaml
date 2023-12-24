@@ -5,7 +5,6 @@ PROGRESS_playtest: false
 description: Detonating frames are reportedly the cause for over half the collateral
   damage in contemporary urban warfare causing untold suffering completely preventable
   through better safety practice.
-effect: While not quite as universal as the widespread Everest parts, all of GMS and
-  her subcontractors construct with longevity and replaceability in mind.
+effect: Your frame can no longer be fully destroyed, deploying a hardening foam screen that prevents uncontrollable damage. You will always be able to repair your mech given enough rest and the necessary Repair Cap (2 per Structure). Undestroyed systems will always be salvageable. 
 id: cb_emergency_foam
 source: GMS-HIPS
