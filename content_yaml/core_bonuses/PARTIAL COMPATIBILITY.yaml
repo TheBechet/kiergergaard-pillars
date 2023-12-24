@@ -2,9 +2,7 @@ PROGRESS_artw: false
 PROGRESS_flavour: false
 PROGRESS_gameplay: true
 PROGRESS_playtest: false
-description: While not quite as universal as the widespread Everest parts, all of
-  GMS and her subcontractors construct with longevity and replaceability in mind.
-effect: 1/mission your frame can repair 1 structure damage for 1 Repair, instead of
-  2 Repairs.
+description: While not quite as universal as the widespread Everest parts, all of GMS and her subcontractors construct with longevity and replaceability in mind.
+effect: 1/mission: as a Free Action your frame can repair 1 Structure Damage at no cost. 
 id: cb_partial_compatibility
 source: GMS-HIPS
