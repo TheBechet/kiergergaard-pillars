@@ -2,7 +2,8 @@ PROGRESS_artw: false
 PROGRESS_flavour: false
 PROGRESS_gameplay: true
 PROGRESS_playtest: false
-description: TODO
-effect: Whenever an enemy hits you with a tech attack, you gain Bolster afterwards.
+description: Your Computer has caught a virus, I would take it to the doctor.
+effect: Whenever an enemy character hits you with a tech attack, you gain Bolster 
+afterwards and +1 Accuracy on your next attack. 
 id: cb_leucocyde_code
 source: LANIKA
