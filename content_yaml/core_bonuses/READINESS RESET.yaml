@@ -4,6 +4,6 @@ PROGRESS_gameplay: true
 PROGRESS_playtest: false
 description: Parts compatibility is an opportunity for new synergies in the interplay
   of systems.
-effect: When you activate your core system you clear off all heat.
+effect: When you Stabilise, you can choose to repair and clear all Heat at the same time but can’t take any of the other benefits doing so. 
 id: cb_readiness_reset
 source: GMS-HIPS
